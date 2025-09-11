@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Jingjie Zhang"
-excerpt: "Ph.D. Candidate in Computer Science | Research in Computational Biology and Machine Learning"
+title: "Taoyong Cui"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,12 +8,18 @@ redirect_from:
 ---
 
 ## About Me
-I am a Ph.D. candidate at [**The Chinese University of Hong Kong (CUHK)**](https://www.cuhk.edu.hk/english/index.html), starting in 2024. My research focuses on Artificial intelligence (AI) for drug design. I am particularly interested in AI for Post-translational modification (PTM). Previously, I completed my undergraduate studies at [Shandong University (SDU)](https://www.sdu.edu.cn/index.htm), where I developed a strong foundation in computer science and bioinformatics.
 
-## Education
-- **Ph.D. in Department of Computer Science and Engineering**, The Chinese University of Hong Kong (CUHK), 2024–2028 (Expected)
-- **B.Sc. in College of Software Engineering**, Shandong University (SDU), 2020–2024
+Welcome to my personal web page! 
 
+I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for AISTATS, ICML, ICLR, NeurIPS, and AAAI. My research interests are in AI for science — in particular, machine learning force field, deep generative models, and LLM applications. 
+
+Feel free to contact me if you are interested in my research. 
+
+## News and Highlights
+- **[July 2025]** One papers is accepted by Advanced Science
+- **[February 2025]** One papers is accepted by Nature Communications
+- **[November 2024]** One papers is accepted by VLDB
+- **[April 2024]** One papers is accepted by nature machine intelligence
 ## Research
 ### SAGEPhos: SAGE Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection
 <span style="color: purple;">Jingjie Zhang</span>, Hanqun Cao, Zijun Gao, Xiaorui Wang, Chunbin Gu
