@@ -16,10 +16,10 @@ I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laborator
 Feel free to contact me if you are interested in my research. 
 
 ## News and Highlights
-- **[July 2025]** One papers is accepted by Advanced Science
-- **[February 2025]** One papers is accepted by Nature Communications
-- **[November 2024]** One papers is accepted by VLDB
-- **[April 2024]** One papers is accepted by nature machine intelligence
+- **[July 2025]** One paper is accepted by Advanced Science
+- **[February 2025]** One paper is accepted by Nature Communications
+- **[November 2024]** One paper is accepted by VLDB
+- **[April 2024]** One paper is accepted by nature machine intelligence
 ## Research
 ### SAGEPhos: SAGE Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection
 <span style="color: purple;">Jingjie Zhang</span>, Hanqun Cao, Zijun Gao, Xiaorui Wang, Chunbin Gu
