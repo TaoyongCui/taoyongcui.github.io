@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taoyong Cui(崔涛镛)"
+title: "Taoyong Cui (崔涛镛)"
 author_profile: true
 redirect_from: 
   - /about/
