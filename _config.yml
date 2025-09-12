@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jane's Page"
+locale                   : "Hong Kong"
+title                    : "Taoyong's Page"
 title_separator          : "-"
-name                     : &name "Jane"
+name                     : &name "Taoyong"
 description              : &description "personal description"
-url                      : https://zhangjj26.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://taoyongcui.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhangJJ26/ZhangJJ26.github.io"
+repository               : "TaoyongCui/taoyongcui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingjie Zhang"
+  name             : "Taoyong Cui"
   avatar           : "profile.jpg"
   bio              : Department of Computer Science and Engineering, The Chinese University of Hong Kong
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : # "https://scholar.google.com/citations?user=_8vmQn0AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhangJJ26"
+  github           : "TaoyongCui"
   google_plus      :
   keybase          :
   instagram        :
