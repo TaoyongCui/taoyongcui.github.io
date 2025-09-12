@@ -14,7 +14,7 @@ I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laborator
 
 My research interests are in **AI for science** — in particular, machine learning force field, deep generative models, and LLM applications. Feel free to contact me if you are interested in my research. 
 
-## News and Highlights
+## ⭐️News and Highlights
 - **[July 2025]** One paper is accepted by **Advanced Science**.
 - **[February 2025]** One paper is accepted by **Nature Communications**.
 - **[November 2024]** One paper is accepted by **VLDB**.
