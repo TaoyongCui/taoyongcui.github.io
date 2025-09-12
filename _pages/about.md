@@ -16,34 +16,35 @@ I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laborator
 Feel free to contact me if you are interested in my research. 
 
 ## News and Highlights
-- **[July 2025]** One paper is accepted by Advanced Science
-- **[February 2025]** One paper is accepted by Nature Communications
-- **[November 2024]** One paper is accepted by VLDB
-- **[April 2024]** One paper is accepted by nature machine intelligence
+- **[July 2025]** One paper is accepted by **Advanced Science**
+- **[February 2025]** One paper is accepted by **Nature Communications**
+- **[November 2024]** One paper is accepted by **VLDB**
+- **[April 2024]** One paper is accepted by **Nature Machine Intelligence**
 ## Research
-### SAGEPhos: SAGE Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection
-<span style="color: purple;">Jingjie Zhang</span>, Hanqun Cao, Zijun Gao, Xiaorui Wang, Chunbin Gu
-- **Description**: SAGEPhos is a structure-aware framework for phosphorylation site prediction that modifies protein inputs using auxiliary modalities at two levels (Bio-Coupled and Bio-Augmented fusion).
-- <span style="color: red;">Note: This paper has been accepted at [ICLR 2025](https://openreview.net/forum?id=hLwcNSFhC2).</span>
-- **Paper**: [arxiv](https://arxiv.org/abs/2502.07384)
-- **Code**: [GitHub Repository](https://github.com/ZhangJJ26/SAGEPhos)
+### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
+<span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
+- **Description**:  In this work, we propose an online Test-time Adaptation Interatomic Potential (TAIP) framework to improve the generalization on test data. Specifically, we design a dual-level self-supervised learning approach that leverages global structure and atomic local environment information to align the model with the test data.
+- <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://www.nature.com/articles/s41467-025-57101-4).</span>
 
-### Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks
-Yu Wang, Chao Pang, Yuzhe Wang, Junru Jin, <span style="color: purple;">Jingjie Zhang</span>, Xiangxiang Zeng, Ran Su, Quan Zou & Leyi Wei
-- **Description**: RetroExplainer is a novel deep learning-based approach that formulates retrosynthesis as a molecular assembly process, utilizing a multi-sense graph transformer, structure-aware contrastive learning, and dynamic multi-task learning to achieve state-of-the-art performance across 12 benchmark datasets with enhanced interpretability.
-- <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://www.nature.com/articles/s41467-023-41698-5).</span>
-- **Code**: [GitHub Repository](https://github.com/wangyu-sd/RetroExplainer)
 
-### MolCAP: Molecular Chemical reActivity Pretraining and prompted-finetuning enhanced molecular representation learning
-Yu Wang, <span style="color: purple;">Jingjie Zhang</span>, Junru Jin, Leyi Wei
-- **Description**: MolCAP is a graph-pretraining Transformer leveraging chemical reactivity knowledge and prompted fine-tuning, outperforming traditional molecular pretraining frameworks across 13 biomedical datasets.
-- Note: This paper has been accepted at [Computers in Biology and Medicine](https://www.sciencedirect.com/science/article/abs/pii/S0010482523011319).
-- **Code**: [GitHub Repository](https://github.com/wangyu-sd/MolCAP)
 
-## Honors
-- 🏆 **Shandong University President's Award (山东大学2023年度校长奖)** (Dec 2023)
-- 🏅 **National Scholarship** (Oct 2022, Oct 2021)
+### MSGNN: Masked Schema based Graph Neural Networks
+Hao Liu, Qianwen Yang, <span style="color: purple;">Taoyong Cui</span>, Wei Wang
+- **Description**:In this work, we introduce Masked Schema based Graph Neural Networks (MSGNN), which combines schema instances with bi-level self-supervised learning and mask technique to acquire effective context representations. Furthermore, we propose a decomposition-reconstruction schema instance retrieval strategy to ensure efficient instance searching.
+- <span style="color: red;">Note: This paper has been accepted at [VLDB]([https://www.nature.com/articles/s41467-023-41698-5](https://dl.acm.org/doi/abs/10.14778/3712221.3712226)).</span>
 
+
+### Geometry-enhanced pretraining on interatomic potentials
+<span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong & Wanli Ouyang 
+- **Description**: In this work, we propose a geometric structure learning framework that leverages unlabelled configurations to improve the performance of MLIPs. Our framework consists of two stages: first, using classical molecular dynamics simulations to generate unlabelled configurations of the target molecular system; and second, applying geometry-enhanced self-supervised learning techniques, including masking, denoising and contrastive learning, to capture structural information.
+- Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6) and the work was awarded 🏆[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024].
+
+## TALKs
+-  World Artificial Intelligence Conference (July 2024)
+-  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Oct 2024)
+-  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (Dec 2024)
+-  World Artificial Intelligence Conference (July 2025)
+-  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Semp 2025)
 ## Contact
-- **Email**: [1155224008@link.cuhk.edu.hk](mailto:1155224008@link.cuhk.edu.hk)
+- **Email**: [cty21@tsinghua.org.cn](mailto:cty21@tsinghua.org.cn)
 
