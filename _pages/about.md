@@ -39,14 +39,16 @@ Hao Liu, Qianwen Yang, <span style="color: purple;">Taoyong Cui</span>, Wei Wang
 ### Geometry-enhanced pretraining on interatomic potentials
 <span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang 
 - **Description**: In this work, we propose a geometric structure learning framework that leverages unlabelled configurations to improve the performance of MLIPs. Our framework consists of two stages: first, using classical molecular dynamics simulations to generate unlabelled configurations of the target molecular system; and second, applying geometry-enhanced self-supervised learning techniques, including masking, denoising and contrastive learning, to capture structural information.
-- Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6) and the work was awarded 🏆[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024].
+- <span style="color: red;">Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6).</span>
+- <span style="color: red;">Honors: the work was awarded 🏅[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024](https://news.pku.edu.cn/xwzh/8fbb785d45af418b836f587e450c26a4.htm). </span>
 
-## TALKs
+## Talks
 -  World Artificial Intelligence Conference (July 2024)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Oct 2024)
 -  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (Dec 2024)
 -  World Artificial Intelligence Conference (July 2025)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Semp 2025)
+  
 ## Contact
 - **Email**: [cty21@tsinghua.org.cn](mailto:cty21@tsinghua.org.cn)
 
