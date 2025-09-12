@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my personal web page! 
+## 🌐 Welcome to my personal web page! 
 
 
 I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for AISTATS, ICML, ICLR, NeurIPS, and AAAI. 
 
 My research interests are in **AI for science** — in particular, machine learning force field, deep generative models, and LLM applications. Feel free to contact me if you are interested in my research. 
 
-## ⭐️News and Highlights
+## 📢 News and Highlights
 - **[July 2025]** One paper is accepted by **Advanced Science**.
 - **[February 2025]** One paper is accepted by **Nature Communications**.
 - **[November 2024]** One paper is accepted by **VLDB**.
 - **[April 2024]** One paper is accepted by **Nature Machine Intelligence**.
 
-## Research
+## 🔍 Research
 
 ### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
 **Taoyong Cui**, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
@@ -41,13 +41,13 @@ Hao Liu, Qianwen Yang, **Taoyong Cui**, Wei Wang
 - <span style="color: red;">Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6).</span>
 - **Honors**: The work was awarded 🏅[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024](https://news.pku.edu.cn/xwzh/8fbb785d45af418b836f587e450c26a4.htm).
 
-## Talks
+## 🗣️ Talks
 -  World Artificial Intelligence Conference (July 2024)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Oct 2024)
 -  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (Dec 2024)
 -  World Artificial Intelligence Conference (July 2025)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Semp 2025)
   
-## Contact
+##  📬 Contact
 - **Email**: [cty21@tsinghua.org.cn](mailto:cty21@tsinghua.org.cn)
 
