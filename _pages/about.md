@@ -11,16 +11,18 @@ redirect_from:
 
 Welcome to my personal web page! 
 
-I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for AISTATS, ICML, ICLR, NeurIPS, and AAAI. My research interests are in AI for science — in particular, machine learning force field, deep generative models, and LLM applications. 
+I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for AISTATS, ICML, ICLR, NeurIPS, and AAAI. 
 
-Feel free to contact me if you are interested in my research. 
+My research interests are in AI for science — in particular, machine learning force field, deep generative models, and LLM applications. Feel free to contact me if you are interested in my research. 
 
 ## News and Highlights
-- **[July 2025]** One paper is accepted by **Advanced Science**
-- **[February 2025]** One paper is accepted by **Nature Communications**
-- **[November 2024]** One paper is accepted by **VLDB**
-- **[April 2024]** One paper is accepted by **Nature Machine Intelligence**
+- **[July 2025]** One paper is accepted by **Advanced Science**.
+- **[February 2025]** One paper is accepted by **Nature Communications**.
+- **[November 2024]** One paper is accepted by **VLDB**.
+- **[April 2024]** One paper is accepted by **Nature Machine Intelligence**.
+
 ## Research
+
 ### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
 <span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
 - **Description**:  In this work, we propose an online Test-time Adaptation Interatomic Potential (TAIP) framework to improve the generalization on test data. Specifically, we design a dual-level self-supervised learning approach that leverages global structure and atomic local environment information to align the model with the test data.
@@ -35,7 +37,7 @@ Hao Liu, Qianwen Yang, <span style="color: purple;">Taoyong Cui</span>, Wei Wang
 
 
 ### Geometry-enhanced pretraining on interatomic potentials
-<span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong & Wanli Ouyang 
+<span style="color: purple;">Taoyong Cui</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang 
 - **Description**: In this work, we propose a geometric structure learning framework that leverages unlabelled configurations to improve the performance of MLIPs. Our framework consists of two stages: first, using classical molecular dynamics simulations to generate unlabelled configurations of the target molecular system; and second, applying geometry-enhanced self-supervised learning techniques, including masking, denoising and contrastive learning, to capture structural information.
 - Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6) and the work was awarded 🏆[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024].
 
