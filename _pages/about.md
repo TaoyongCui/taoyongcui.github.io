@@ -43,10 +43,10 @@ Hao Liu, Qianwen Yang, **Taoyong Cui**, Wei Wang
 
 ## 🗣️ Talks
 -  World Artificial Intelligence Conference (July 2024)
--  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Oct 2024)
--  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (Dec 2024)
+-  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (October 2024)
+-  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (December 2024)
 -  World Artificial Intelligence Conference (July 2025)
--  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (Semp 2025)
+-  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (September 2025)
   
 ##  📬 Contact
 - **Email**: [cty21@tsinghua.org.cn](mailto:cty21@tsinghua.org.cn)
