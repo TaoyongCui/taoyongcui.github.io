@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taoyong Cui"
+title: "Taoyong Cui(崔涛镛)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,20 +24,20 @@ My research interests are in AI for science — in particular, machine learning 
 ## Research
 
 ### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
-<span style="color: purple;">**Taoyong Cui**</span>, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
+<span style="color: orange;">**Taoyong Cui**</span>, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
 - **Description**:  In this work, we propose an online Test-time Adaptation Interatomic Potential (TAIP) framework to improve the generalization on test data. Specifically, we design a dual-level self-supervised learning approach that leverages global structure and atomic local environment information to align the model with the test data.
 - <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://www.nature.com/articles/s41467-025-57101-4).</span>
 
 
 
 ### MSGNN: Masked Schema based Graph Neural Networks
-Hao Liu, Qianwen Yang, <span style="color: purple;">**Taoyong Cui**</span>, Wei Wang
+Hao Liu, Qianwen Yang, <span style="color: orange;">**Taoyong Cui**</span>, Wei Wang
 - **Description**:In this work, we introduce Masked Schema based Graph Neural Networks (MSGNN), which combines schema instances with bi-level self-supervised learning and mask technique to acquire effective context representations. Furthermore, we propose a decomposition-reconstruction schema instance retrieval strategy to ensure efficient instance searching.
 - <span style="color: red;">Note: This paper has been accepted at [VLDB]([https://www.nature.com/articles/s41467-023-41698-5](https://dl.acm.org/doi/abs/10.14778/3712221.3712226)).</span>
 
 
 ### Geometry-enhanced pretraining on interatomic potentials
-<span style="color: purple;">**Taoyong Cui**</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang 
+<span style="color: orange;">**Taoyong Cui**</span>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang 
 - **Description**: In this work, we propose a geometric structure learning framework that leverages unlabelled configurations to improve the performance of MLIPs. Our framework consists of two stages: first, using classical molecular dynamics simulations to generate unlabelled configurations of the target molecular system; and second, applying geometry-enhanced self-supervised learning techniques, including masking, denoising and contrastive learning, to capture structural information.
 - <span style="color: red;">Note: This paper has been accepted at [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00818-6).</span>
 - **Honors**: the work was awarded 🏅[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024](https://news.pku.edu.cn/xwzh/8fbb785d45af418b836f587e450c26a4.htm).
