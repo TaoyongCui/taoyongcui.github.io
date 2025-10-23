@@ -15,7 +15,8 @@ I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laborator
 My research focuses on **AI for Science**, particularly on machine learning force fields, deep generative models, and large language model applications.  You can find more details in my [Google Scholar](https://scholar.google.com/citations?user=_8vmQn0AAAAJ&hl=zh-CN).  Feel free to reach out if you’re interested in my work.
 
 ## 📢 News and Highlights
-- <span style="color:#FF4500;">🆕 **[July 2025]**</span> One paper is accepted by **Advanced Science**.  
+
+- <span style="color:#3BAFDA;"> **[July 2025]**</span> One paper is accepted by **Advanced Science**.
 - **[February 2025]** One paper is accepted by **Nature Communications**.
 - **[November 2024]** One paper is accepted by **VLDB**.
 - **[April 2024]** One paper is accepted by **Nature Machine Intelligence**.
