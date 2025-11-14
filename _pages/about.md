@@ -10,7 +10,9 @@ redirect_from:
 ## 🌐 Welcome to my personal web page! 
 
 
-I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for Nature Communications, AISTATS, ICML, ICLR, NeurIPS, and AAAI. 
+I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) in The Chinese University of Hong Kong (CUHK), co-supervised by [Prof. Pheng Ann Heng](https://scholar.google.com/citations?hl=zh-CN&user=OFdytjoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Wanli Ouyang](https://scholar.google.com/citations?hl=zh-CN&user=pw_0Z_UAAAAJ&view_op=list_works&sortby=pubdate). 
+
+Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for Nature Communications, AISTATS, ICML, ICLR, NeurIPS, and AAAI. 
 
 My research focuses on **AI for Science**, particularly on machine learning force fields, deep generative models, and large language model applications.  You can find more details in my [Google Scholar](https://scholar.google.com/citations?user=_8vmQn0AAAAJ&hl=zh-CN).  Feel free to reach out if you’re interested in my work.
 
