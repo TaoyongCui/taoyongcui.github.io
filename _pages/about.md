@@ -24,7 +24,7 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 - **[November 2024]** One paper is accepted by **VLDB**.
 - **[April 2024]** One paper is accepted by **Nature Machine Intelligence**.
 
-## 🔍 Research
+## 🔍 Selected Research
 
 ### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
 **Taoyong Cui**, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
