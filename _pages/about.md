@@ -18,6 +18,7 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 
 ## 📢 News and Highlights
 
+- <span style="color:#FFA500;"> **[November 2025]**</span> One paper is accepted by **Scientific Data**.
 - <span style="color:#FFA500;"> **[October 2025]**</span> One paper is accepted by **Current Opinion in Structural Biology**.
 - <span style="color:#FFA500;"> **[July 2025]**</span> One paper is accepted by **Advanced Science**.
 - **[February 2025]** One paper is accepted by **Nature Communications**.
@@ -33,10 +34,10 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 
 
 
-### MSGNN: Masked Schema based Graph Neural Networks
-Hao Liu, Qianwen Yang, **Taoyong Cui**, Wei Wang
-- **Description**:In this work, we introduce Masked Schema based Graph Neural Networks (MSGNN), which combines schema instances with bi-level self-supervised learning and mask technique to acquire effective context representations. Furthermore, we propose a decomposition-reconstruction schema instance retrieval strategy to ensure efficient instance searching.
-- <span style="color: red;">Note: This paper has been accepted at [VLDB]([https://www.nature.com/articles/s41467-023-41698-5](https://dl.acm.org/doi/abs/10.14778/3712221.3712226)).</span>
+### A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials
+**Taoyong Cui**, Yunhong Han, Haojun Jia, Chenru Duan, and Qiyuan Zhao
+- **Description**:In this work, we developed HORM, the first large-scale quantum-chemistry Hessian dataset for reactive systems and introduced a Hessian-informed training strategy that enables machine-learning interatomic potentials to achieve significantly more accurate and efficient transition-state modeling.
+- <span style="color: red;">Note: This paper has been accepted at [Scientific Data]([[https://www.nature.com/articles/s41467-023-41698-5]](https://arxiv.org/abs/2505.12447)([https://dl.acm.org/doi/abs/10.14778/3712221.3712226](https://arxiv.org/abs/2505.12447))).</span>
 
 
 ### Geometry-enhanced pretraining on interatomic potentials
