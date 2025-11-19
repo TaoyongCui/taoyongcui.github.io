@@ -37,7 +37,7 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 ### A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials
 **Taoyong Cui**, Yunhong Han, Haojun Jia, Chenru Duan, and Qiyuan Zhao
 - **Description**:In this work, we developed HORM, the first large-scale quantum-chemistry Hessian dataset for reactive systems and introduced a Hessian-informed training strategy that enables machine-learning interatomic potentials to achieve significantly more accurate and efficient transition-state modeling.
-- <span style="color: red;">Note: This paper has been accepted at [Scientific Data]([[https://www.nature.com/articles/s41467-023-41698-5]](https://arxiv.org/abs/2505.12447)([https://dl.acm.org/doi/abs/10.14778/3712221.3712226](https://arxiv.org/abs/2505.12447))).</span>
+- <span style="color: red;">Note: This paper has been accepted at [Scientific Data](https://arxiv.org/abs/2505.12447).</span>
 
 
 ### Geometry-enhanced pretraining on interatomic potentials
