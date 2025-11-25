@@ -18,6 +18,7 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 
 ## 📢 News and Highlights
 
+- <span style="color:#FFA500;"> **[November 2025]**</span> One paper is accepted by **Nature Communications**.
 - <span style="color:#FFA500;"> **[November 2025]**</span> One paper is accepted by **Scientific Data**.
 - <span style="color:#FFA500;"> **[October 2025]**</span> One paper is accepted by **Current Opinion in Structural Biology**.
 - <span style="color:#FFA500;"> **[July 2025]**</span> One paper is accepted by **Advanced Science**.
