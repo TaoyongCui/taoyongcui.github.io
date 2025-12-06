@@ -28,17 +28,15 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 
 ## 🔍 Selected Research
 
+### Evidential Deep Learning for Interatomic Potentials
+Han Xu†, **Taoyong Cui†**, Chenyu Tang1†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su (†These authors contributed equally to this work.)
+- **Description**:In this work, we show an evidential deep learning framework for interatomic potentials with a physics-inspired design. Our method provides uncertainty quantification without significant computational overhead or decreased prediction accuracy, consistently outperforming other methods across a variety of datasets.
+- <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://arxiv.org/abs/2407.13994).</span>
+
 ### Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data
 **Taoyong Cui**, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang
 - **Description**:  In this work, we propose an online Test-time Adaptation Interatomic Potential (TAIP) framework to improve the generalization on test data. Specifically, we design a dual-level self-supervised learning approach that leverages global structure and atomic local environment information to align the model with the test data.
 - <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://www.nature.com/articles/s41467-025-57101-4).</span>
-
-
-
-### A Large Scale Molecular Hessian Database for Optimizing Reactive Machine Learning Interatomic Potentials
-**Taoyong Cui**, Yunhong Han, Haojun Jia, Chenru Duan, and Qiyuan Zhao
-- **Description**:In this work, we developed HORM, the first large-scale quantum-chemistry Hessian dataset for reactive systems and introduced a Hessian-informed training strategy that enables machine-learning interatomic potentials to achieve significantly more accurate and efficient transition-state modeling.
-- <span style="color: red;">Note: This paper has been accepted at [Scientific Data](https://arxiv.org/abs/2505.12447).</span>
 
 
 ### Geometry-enhanced pretraining on interatomic potentials
