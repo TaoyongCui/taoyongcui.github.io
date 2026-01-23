@@ -29,7 +29,7 @@ My research focuses on **AI for Science**, particularly on machine learning forc
 ## 🔍 Selected Research
 
 ### Evidential Deep Learning for Interatomic Potentials
-Han Xu†, **Taoyong Cui†**, Chenyu Tang1†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su (†These authors contributed equally to this work.)
+Han Xu†, **Taoyong Cui†**, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su (†These authors contributed equally to this work.)
 - **Description**:In this work, we show an evidential deep learning framework for interatomic potentials with a physics-inspired design. Our method provides uncertainty quantification without significant computational overhead or decreased prediction accuracy, consistently outperforming other methods across a variety of datasets.
 - <span style="color: red;">Note: This paper has been accepted at [Nature Communications](https://arxiv.org/abs/2407.13994).</span>
 
