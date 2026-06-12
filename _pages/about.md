@@ -14,7 +14,7 @@ I am currently a Ph.D. student at the AI4LS Laboratory and [Multimedia Laborator
 
 Before joining CUHK, I received my Academic Master's degree in Biomedical Engineering from Tsinghua University. I served as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), and have served as a reviewer for Nature Communications, AISTATS, ICML, ICLR, NeurIPS, and AAAI. 
 
-My research focuses on **AI for Science**, particularly on AI for Physics, world model, and agentic systems.  You can find more details in my [Google Scholar](https://scholar.google.com/citations?user=_8vmQn0AAAAJ&hl=zh-CN).  Please feel free to contact me for communication and collaboration.
+My research focuses on **AI for Science**, with an emphasis on AI for Physics, world models, and agentic systems..  You can find more details in my [Google Scholar](https://scholar.google.com/citations?user=_8vmQn0AAAAJ&hl=zh-CN).  Please feel free to contact me for communication and collaboration.
 
 ## 📢 News and Highlights
 
