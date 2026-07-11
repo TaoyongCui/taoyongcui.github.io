@@ -46,11 +46,13 @@ Han Xu†, **Taoyong Cui†**, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang
 - **Honors**: The work was awarded 🏅[Outstanding Thesis Award for Young Researchers in World Artificial Intelligence Conference 2024](https://reg.worldaic.com.cn/channelChoose) and 🏅[Best Paper Award at the Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum 2024](https://news.pku.edu.cn/xwzh/8fbb785d45af418b836f587e450c26a4.htm).
 
 ## 🗣️ Talks
+
 -  World Artificial Intelligence Conference (July 2024)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (October 2024)
 -  China Academic Forum on Interdisciplinary Innovation for Graduate Students in Materials Science (December 2024)
 -  World Artificial Intelligence Conference (July 2025)
 -  Guangdong-Hong Kong-Macao Greater Bay Area AI for Science PhD Forum (September 2025)
+-  Global Artificial Intelligence Technology Conference 2026 (May 2026)
   
 ##  📬 Contact
 - **Email**: [cty21@tsinghua.org.cn](mailto:cty21@tsinghua.org.cn)
