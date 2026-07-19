@@ -16,9 +16,13 @@ redirect_from:
       <h1 id="hero-title">Building intelligence for <em>scientific discovery.</em></h1>
       <p class="hero__identity">Taoyong Cui <span>崔涛镛</span></p>
       <p class="hero__intro">
-        I study AI for Physics, world models, and agentic systems at the
-        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">Chinese University of Hong Kong</a>.
-        I am also a visiting Ph.D. researcher at Stanford University.
+        I am a Ph.D. student in the
+        <a href="https://www.cse.cuhk.edu.hk/" target="_blank" rel="noopener">Department of Computer Science and Engineering</a>
+        at <a href="https://www.cuhk.edu.hk/english/" target="_blank" rel="noopener">The Chinese University of Hong Kong (CUHK)</a>,
+        working with the AI4LS Laboratory and
+        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">Multimedia Laboratory (MMLab)</a>.
+        I am also a visiting Ph.D. researcher at
+        <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University</a>.
       </p>
       <div class="hero__actions">
         <a class="button button--primary" href="https://scholar.google.com/citations?user=_8vmQn0AAAAJ&amp;hl=en" target="_blank" rel="noopener">
@@ -47,13 +51,6 @@ redirect_from:
   </div>
 </section>
 
-<div class="metrics" aria-label="Profile highlights">
-  <div class="metric"><strong>CUHK</strong><span>Ph.D. home</span></div>
-  <div class="metric"><strong>Stanford</strong><span>Visiting researcher</span></div>
-  <div class="metric"><strong>3</strong><span>Selected works</span></div>
-  <div class="metric"><strong>2024–26</strong><span>Recent talks</span></div>
-</div>
-
 <section class="section" id="about" aria-labelledby="about-title">
   <div class="section-heading">
     <p class="section-kicker">About</p>
@@ -68,10 +65,11 @@ redirect_from:
     </p>
     <div>
       <p class="section-heading__copy">
-        At CUHK, I am co-supervised by
+        At <a href="https://www.cuhk.edu.hk/english/" target="_blank" rel="noopener">CUHK</a>, I conduct research with the AI4LS Laboratory and
+        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">MMLab</a>, co-supervised by
         <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ" target="_blank" rel="noopener">Prof. Pheng Ann Heng</a>
         and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ" target="_blank" rel="noopener">Prof. Wanli Ouyang</a>.
-        At Stanford, I collaborate with
+        At <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University</a>, I collaborate with
         <a href="https://scholar.google.com/citations?user=sfJIWdcAAAAJ" target="_blank" rel="noopener">Prof. Le Cong</a>.
         Before CUHK, I earned an Academic Master's degree in Biomedical Engineering from Tsinghua University and completed research internships at Microsoft Research Asia and Shanghai AI Laboratory.
       </p>
