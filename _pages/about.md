@@ -12,9 +12,9 @@ redirect_from:
 <section class="hero" id="top" aria-labelledby="hero-title">
   <div class="hero__grid">
     <div class="hero__content">
-      <p class="hero__eyebrow">Ph.D. Researcher · AI for Science</p>
+      <p class="hero__eyebrow">Taoyong Cui · 崔涛镛</p>
       <h1 id="hero-title">Building intelligence for <em>scientific discovery.</em></h1>
-      <p class="hero__identity">Taoyong Cui <span>崔涛镛</span></p>
+      <p class="hero__thesis">Toward reliable physical intelligence, world models, and autonomous scientific discovery.</p>
       <p class="hero__intro">
         I am a Ph.D. student in the
         <a href="https://www.cse.cuhk.edu.hk/" target="_blank" rel="noopener">Department of Computer Science and Engineering</a>
@@ -24,15 +24,11 @@ redirect_from:
         I am also a visiting Ph.D. researcher at
         <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford University</a>.
       </p>
-      <div class="hero__actions">
-        <a class="button button--primary" href="https://scholar.google.com/citations?user=_8vmQn0AAAAJ&amp;hl=en" target="_blank" rel="noopener">
-          Google Scholar
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"></path></svg>
-        </a>
-        <a class="button button--secondary" href="mailto:cty21@tsinghua.org.cn">
-          Get in touch
-          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"></rect><path d="m3 7 9 6 9-6"></path></svg>
-        </a>
+      <div class="hero__links" aria-label="Profile links">
+        <a href="mailto:cty21@tsinghua.org.cn">Contact <span aria-hidden="true">↗</span></a>
+        <a href="https://scholar.google.com/citations?user=_8vmQn0AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a href="https://github.com/TaoyongCui" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
+        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">MMLab <span aria-hidden="true">↗</span></a>
       </div>
     </div>
 
@@ -207,7 +203,7 @@ redirect_from:
 </section>
 
 <footer class="site-footer">
-  <span>© {{ site.time | date: "%Y" }} Taoyong Cui. Built for curiosity.</span>
+  <span>© {{ site.time | date: "%Y" }} Taoyong Cui · Site updated {{ site.time | date: "%B %Y" }}.</span>
   <div class="footer-links" aria-label="External profiles">
     <a href="https://scholar.google.com/citations?user=_8vmQn0AAAAJ&amp;hl=en" target="_blank" rel="noopener">Scholar</a>
     <a href="https://github.com/TaoyongCui" target="_blank" rel="noopener">GitHub</a>
