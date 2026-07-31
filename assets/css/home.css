@@ -623,6 +623,11 @@ body.nav-open .menu-toggle__lines span:last-child {
   border-color: var(--accent);
 }
 
+.section-heading__copy strong {
+  color: var(--ink-soft);
+  font-weight: 720;
+}
+
 .about-grid {
   display: grid;
   grid-template-columns: minmax(0, 0.88fr) minmax(0, 1.12fr);
@@ -651,7 +656,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 }
 
 .focus-card {
-  min-height: 250px;
+  min-height: 220px;
   display: flex;
   flex-direction: column;
   padding: clamp(22px, 3vw, 32px);
@@ -947,7 +952,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 
 .talk-item {
   display: grid;
-  grid-template-columns: 135px minmax(0, 1fr) 190px;
+  grid-template-columns: 135px minmax(0, 1fr);
   gap: 32px;
   align-items: center;
   padding: 24px 0;
@@ -976,12 +981,6 @@ body.nav-open .menu-toggle__lines span:last-child {
   font-weight: 550;
   letter-spacing: -0.02em;
   line-height: 1.35;
-}
-
-.talk-item span {
-  color: var(--muted);
-  font-size: 0.78rem;
-  text-align: right;
 }
 
 .contact-section {
@@ -1289,11 +1288,6 @@ body.nav-open .menu-toggle__lines span:last-child {
     grid-template-columns: 110px minmax(0, 1fr);
   }
 
-  .talk-item span {
-    grid-column: 2;
-    margin-top: -25px;
-    text-align: left;
-  }
 }
 
 @media (max-width: 560px) {
@@ -1377,11 +1371,6 @@ body.nav-open .menu-toggle__lines span:last-child {
     grid-template-columns: 1fr;
     gap: 8px;
     padding: 20px 0;
-  }
-
-  .talk-item span {
-    grid-column: 1;
-    margin-top: 1px;
   }
 
   .talk-item:hover {
