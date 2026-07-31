@@ -36,8 +36,8 @@ redirect_from:
         <img src="{{ site.baseurl }}/images/profile.jpg" alt="Taoyong Cui's profile illustration" width="936" height="936" fetchpriority="high">
       </div>
       <div class="portrait-card__badge">
-        <strong>From atoms to agents</strong>
-        <span>Reliable AI for Science.</span>
+        <strong>From atomic-scale systems</strong>
+        <span>to macroscopic physical reality.</span>
       </div>
     </div>
   </div>
