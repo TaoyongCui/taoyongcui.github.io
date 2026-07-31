@@ -385,7 +385,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 760px;
   margin: 0;
   font-family: var(--serif);
-  font-size: clamp(3.55rem, 6.4vw, 6.35rem);
+  font-size: clamp(3.1rem, 5.2vw, 5.35rem);
   font-weight: 500;
   letter-spacing: -0.055em;
   line-height: 0.96;
@@ -405,7 +405,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 690px;
   margin: 25px 0 0;
   color: rgba(222, 238, 231, 0.9);
-  font-size: clamp(1rem, 1.55vw, 1.22rem);
+  font-size: clamp(0.96rem, 1.2vw, 1.08rem);
   font-weight: 650;
   letter-spacing: -0.015em;
   line-height: 1.55;
@@ -415,7 +415,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 680px;
   margin: 15px 0 0;
   color: rgba(188, 208, 199, 0.78);
-  font-size: clamp(0.9rem, 1.18vw, 1rem);
+  font-size: clamp(0.88rem, 1.05vw, 0.96rem);
   line-height: 1.75;
 }
 
@@ -597,7 +597,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 780px;
   margin: 0;
   font-family: var(--serif);
-  font-size: clamp(2.45rem, 5vw, 4.5rem);
+  font-size: clamp(2.15rem, 4vw, 3.65rem);
   font-weight: 500;
   letter-spacing: -0.045em;
   line-height: 1.04;
@@ -607,8 +607,8 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 690px;
   margin: 20px 0 0;
   color: var(--muted);
-  font-size: 1.02rem;
-  line-height: 1.8;
+  font-size: 0.95rem;
+  line-height: 1.72;
 }
 
 .section-heading__copy a {
@@ -678,7 +678,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .focus-card h3 {
   margin: auto 0 8px;
   font-family: var(--serif);
-  font-size: 1.55rem;
+  font-size: 1.4rem;
   font-weight: 550;
   letter-spacing: -0.03em;
 }
@@ -686,7 +686,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .focus-card p {
   margin: 0;
   color: var(--muted);
-  font-size: 0.87rem;
+  font-size: 0.82rem;
   line-height: 1.65;
 }
 
@@ -733,7 +733,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .paper-card__number {
   color: color-mix(in srgb, var(--accent) 74%, var(--muted));
   font-family: var(--serif);
-  font-size: 3.15rem;
+  font-size: 2.7rem;
   font-weight: 400;
   letter-spacing: -0.06em;
   line-height: 0.9;
@@ -763,7 +763,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 720px;
   margin: 0;
   font-family: var(--serif);
-  font-size: clamp(1.55rem, 2.8vw, 2.28rem);
+  font-size: clamp(1.4rem, 2.2vw, 1.95rem);
   font-weight: 550;
   letter-spacing: -0.035em;
   line-height: 1.16;
@@ -772,8 +772,8 @@ body.nav-open .menu-toggle__lines span:last-child {
 .paper-card__authors {
   margin: 17px 0 0;
   color: var(--muted);
-  font-size: 0.78rem;
-  line-height: 1.65;
+  font-size: 0.74rem;
+  line-height: 1.58;
 }
 
 .paper-card__authors strong {
@@ -794,7 +794,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .paper-card__summary p {
   margin: 0;
   color: var(--muted);
-  font-size: 0.84rem;
+  font-size: 0.8rem;
   line-height: 1.72;
 }
 
@@ -860,7 +860,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .news-intro h2 {
   margin: 0;
   font-family: var(--serif);
-  font-size: clamp(2.5rem, 5vw, 4.45rem);
+  font-size: clamp(2.2rem, 4vw, 3.55rem);
   font-weight: 500;
   letter-spacing: -0.05em;
   line-height: 1.02;
@@ -870,7 +870,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 390px;
   margin: 20px 0 0;
   color: var(--muted);
-  font-size: 0.96rem;
+  font-size: 0.9rem;
 }
 
 .timeline {
@@ -900,7 +900,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .timeline p {
   margin: -3px 0 0;
   color: var(--ink-soft);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .timeline strong {
@@ -954,7 +954,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 .talk-item h3 {
   margin: 0;
   font-family: var(--serif);
-  font-size: 1.22rem;
+  font-size: 1.1rem;
   font-weight: 550;
   letter-spacing: -0.02em;
   line-height: 1.35;
@@ -1014,7 +1014,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 850px;
   margin: 20px 0 0;
   font-family: var(--serif);
-  font-size: clamp(2.55rem, 6vw, 5rem);
+  font-size: clamp(2.2rem, 4.8vw, 4.1rem);
   font-weight: 500;
   letter-spacing: -0.05em;
   line-height: 1.02;
@@ -1034,7 +1034,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   max-width: 540px;
   margin: 0;
   color: rgba(238, 250, 246, 0.68);
-  font-size: 0.9rem;
+  font-size: 0.86rem;
 }
 
 .contact-link {
@@ -1273,7 +1273,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   }
 
   .hero h1 {
-    font-size: clamp(3.1rem, 16.5vw, 4.5rem);
+    font-size: clamp(2.7rem, 14vw, 3.7rem);
   }
 
   .hero__links {
@@ -1308,7 +1308,7 @@ body.nav-open .menu-toggle__lines span:last-child {
 
   .section-heading h2,
   .news-intro h2 {
-    font-size: clamp(2.35rem, 12vw, 3.5rem);
+    font-size: clamp(2rem, 10vw, 2.85rem);
   }
 
   .paper-card {
@@ -1318,7 +1318,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   }
 
   .paper-card__number {
-    font-size: 2.25rem;
+    font-size: 2rem;
   }
 
   .paper-card__summary {

@@ -102,7 +102,7 @@ redirect_from:
       <div>
         <p class="paper-card__venue">Nature Communications · 2026</p>
         <h3>Evidential deep learning for interatomic potentials</h3>
-        <p class="paper-card__authors">Han Xu†, <strong>Taoyong Cui†</strong>, Chenyu Tang†, et al.</p>
+        <p class="paper-card__authors">Han Xu†, <strong>Taoyong Cui†</strong>, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su</p>
       </div>
       <div class="paper-card__summary">
         <p>Efficient uncertainty quantification for interatomic potentials.</p>
@@ -115,7 +115,7 @@ redirect_from:
       <div>
         <p class="paper-card__venue">Nature Communications · 2025</p>
         <h3>Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data</h3>
-        <p class="paper-card__authors"><strong>Taoyong Cui</strong>, Chenyu Tang, Dongzhan Zhou, et al.</p>
+        <p class="paper-card__authors"><strong>Taoyong Cui</strong>, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su, Shufei Zhang</p>
       </div>
       <div class="paper-card__summary">
         <p>Test-time adaptation for out-of-distribution atomic structures.</p>
@@ -128,7 +128,7 @@ redirect_from:
       <div>
         <p class="paper-card__venue">Nature Machine Intelligence · 2024</p>
         <h3>Geometry-enhanced pretraining on interatomic potentials</h3>
-        <p class="paper-card__authors"><strong>Taoyong Cui</strong>, Chenyu Tang, Mao Su, et al.</p>
+        <p class="paper-card__authors"><strong>Taoyong Cui</strong>, Chenyu Tang, Mao Su, Shufei Zhang, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang</p>
       </div>
       <div class="paper-card__summary">
         <p>Geometry-aware pretraining for interatomic potentials.</p>
