@@ -48,14 +48,6 @@ redirect_from:
     <p class="section-kicker">About</p>
     <div>
       <h2 id="about-title">Reliable learning for physical systems.</h2>
-    </div>
-  </div>
-
-  <div class="about-grid">
-    <p class="about-copy">
-      I study <strong>uncertainty, adaptation, and geometric learning</strong> for molecular simulation, with broader interests in world models and scientific agents.
-    </p>
-    <div>
       <p class="section-heading__copy">
         <a href="https://www.cuhk.edu.hk/english/" target="_blank" rel="noopener">CUHK</a>: AI4LS Laboratory and
         <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">MMLab</a>. Co-supervised by
