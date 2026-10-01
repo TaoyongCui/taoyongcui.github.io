@@ -100,6 +100,22 @@ redirect_from:
     <article class="paper-card">
       <div class="paper-card__number" aria-hidden="true">01</div>
       <div>
+        <p class="paper-card__venue">arXiv · 2026</p>
+        <h3>JEPA-Anything: Learning Predictive Models across Different Worlds</h3>
+        <p class="paper-card__authors"><strong>Taoyong Cui</strong>, Zhongyao Wang, Xinyue Xu, Weiyang Liu, Zhaochen Yu, Yuying Zhang, Qiang Gao, Mengyue Yang, Wanli Ouyang, Pheng Ann Heng, Yingcheng Wu, Zhenfei Yin, Ling Yang</p>
+      </div>
+      <div class="paper-card__summary">
+        <p>A shared predictive framework for world models across vision, biology, clinical trajectories, control, molecular dynamics, physical fields, and weather.</p>
+        <div class="paper-card__links">
+          <a class="paper-card__link" href="https://arxiv.org/abs/2609.20800" target="_blank" rel="noopener">Read paper <span aria-hidden="true">↗</span></a>
+          <a class="paper-card__link" href="https://github.com/Gen-Verse/JEPA-Anything" target="_blank" rel="noopener">Code <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </article>
+
+    <article class="paper-card">
+      <div class="paper-card__number" aria-hidden="true">02</div>
+      <div>
         <p class="paper-card__venue">Nature Communications · 2026</p>
         <h3>Evidential deep learning for interatomic potentials</h3>
         <p class="paper-card__authors">Han Xu†, <strong>Taoyong Cui†</strong>, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su</p>
@@ -111,7 +127,7 @@ redirect_from:
     </article>
 
     <article class="paper-card">
-      <div class="paper-card__number" aria-hidden="true">02</div>
+      <div class="paper-card__number" aria-hidden="true">03</div>
       <div>
         <p class="paper-card__venue">Nature Communications · 2025</p>
         <h3>Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data</h3>
@@ -124,7 +140,7 @@ redirect_from:
     </article>
 
     <article class="paper-card">
-      <div class="paper-card__number" aria-hidden="true">03</div>
+      <div class="paper-card__number" aria-hidden="true">04</div>
       <div>
         <p class="paper-card__venue">Nature Machine Intelligence · 2024</p>
         <h3>Geometry-enhanced pretraining on interatomic potentials</h3>
@@ -149,6 +165,7 @@ redirect_from:
       <h2 id="news-title">News.</h2>
     </div>
     <ol class="timeline">
+      <li><time datetime="2026-09">Sep 2026</time><p><strong><a href="https://arxiv.org/abs/2609.20800" target="_blank" rel="noopener">JEPA-Anything</a></strong> released and <strong>featured by <a href="https://www.qbitai.com/2026/09/492429.html" target="_blank" rel="noopener">QbitAI (量子位) ↗</a></strong>.</p></li>
       <li><time datetime="2025-12">Dec 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li>
       <li><time datetime="2025-11">Nov 2025</time><p><strong>Scientific Data</strong> paper accepted.</p></li>
       <li><time datetime="2025-10">Oct 2025</time><p><strong>Current Opinion in Structural Biology</strong> paper accepted.</p></li>

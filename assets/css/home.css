@@ -833,6 +833,19 @@ body.nav-open .menu-toggle__lines span:last-child {
   font-weight: 760;
 }
 
+.paper-card__links {
+  margin-top: auto;
+  padding-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+}
+
+.paper-card__links .paper-card__link {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 .paper-card__link span {
   transition: transform 180ms ease;
 }
@@ -906,6 +919,16 @@ body.nav-open .menu-toggle__lines span:last-child {
 .timeline strong {
   color: var(--ink);
   font-weight: 720;
+}
+
+.timeline a {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 3px;
+}
+
+.timeline a:hover {
+  color: var(--accent-deep);
 }
 
 .timeline li:first-child::after {
