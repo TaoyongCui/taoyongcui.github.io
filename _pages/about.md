@@ -163,17 +163,20 @@ redirect_from:
     <div class="news-intro">
       <p class="section-kicker">News</p>
       <h2 id="news-title">News.</h2>
+      <p>Latest six updates are shown. Scroll for earlier news.</p>
     </div>
-    <ol class="timeline">
-      <li><time datetime="2026-09">Sep 2026</time><p><strong><a href="https://arxiv.org/abs/2609.20800" target="_blank" rel="noopener">JEPA-Anything</a></strong> released and <strong>featured by <a href="https://www.qbitai.com/2026/09/492429.html" target="_blank" rel="noopener">QbitAI (量子位) ↗</a></strong>.</p></li>
-      <li><time datetime="2025-12">Dec 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li>
-      <li><time datetime="2025-11">Nov 2025</time><p><strong>Scientific Data</strong> paper accepted.</p></li>
-      <li><time datetime="2025-10">Oct 2025</time><p><strong>Current Opinion in Structural Biology</strong> paper accepted.</p></li>
-      <li><time datetime="2025-07">Jul 2025</time><p><strong>Advanced Science</strong> paper accepted.</p></li>
-      <li><time datetime="2025-02">Feb 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li>
-      <li><time datetime="2024-11">Nov 2024</time><p><strong>VLDB</strong> paper accepted.</p></li>
-      <li><time datetime="2024-04">Apr 2024</time><p><strong>Nature Machine Intelligence</strong> paper accepted.</p></li>
-    </ol>
+    <div class="news-scroll" role="region" aria-label="News timeline; scroll for older updates" tabindex="0" data-news-scroll>
+      <ol class="timeline">
+        <li><time datetime="2026-09">Sep 2026</time><p><strong><a href="https://arxiv.org/abs/2609.20800" target="_blank" rel="noopener">JEPA-Anything</a></strong> released and <strong>featured by <a href="https://www.qbitai.com/2026/09/492429.html" target="_blank" rel="noopener">QbitAI (量子位) ↗</a></strong>.</p></li>
+        <li><time datetime="2025-12">Dec 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li>
+        <li><time datetime="2025-11">Nov 2025</time><p><strong>Scientific Data</strong> paper accepted.</p></li>
+        <li><time datetime="2025-10">Oct 2025</time><p><strong>Current Opinion in Structural Biology</strong> paper accepted.</p></li>
+        <li><time datetime="2025-07">Jul 2025</time><p><strong>Advanced Science</strong> paper accepted.</p></li>
+        <li><time datetime="2025-02">Feb 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li>
+        <li><time datetime="2024-11">Nov 2024</time><p><strong>VLDB</strong> paper accepted.</p></li>
+        <li><time datetime="2024-04">Apr 2024</time><p><strong>Nature Machine Intelligence</strong> paper accepted.</p></li>
+      </ol>
+    </div>
   </div>
 </section>
 
