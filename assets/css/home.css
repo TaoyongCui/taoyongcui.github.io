@@ -889,12 +889,10 @@ body.nav-open .menu-toggle__lines span:last-child {
 .news-scroll {
   max-height: var(--news-visible-height, 560px);
   overflow-y: auto;
-  padding: 0 20px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  scrollbar-color: var(--line-strong) transparent;
+  padding-right: 14px;
+  scrollbar-color: var(--accent) transparent;
   scrollbar-gutter: stable;
+  scrollbar-width: thin;
 }
 
 .news-scroll:focus-visible {
@@ -947,19 +945,9 @@ body.nav-open .menu-toggle__lines span:last-child {
   color: var(--accent-deep);
 }
 
-.timeline li:first-child::after {
-  position: absolute;
-  top: 27px;
-  right: 0;
-  padding: 3px 8px;
-  border-radius: 999px;
-  content: "Latest";
+.timeline .news-feature {
   color: var(--accent-deep);
-  background: var(--accent-soft);
-  font-size: 0.62rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-weight: 750;
 }
 
 .talk-list {
@@ -1371,11 +1359,7 @@ body.nav-open .menu-toggle__lines span:last-child {
   }
 
   .news-scroll {
-    padding: 0 14px;
-  }
-
-  .timeline li:first-child::after {
-    top: 19px;
+    padding-right: 8px;
   }
 
   .timeline p {
