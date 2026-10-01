@@ -74,7 +74,7 @@ redirect_from:
         <svg viewBox="0 0 24 24"><path d="M4 17.5 9 12l3 3 8-9"></path><path d="M16 6h4v4"></path><path d="M4 5v14h16"></path></svg>
       </div>
       <h3>World Models</h3>
-      <p>JEPA-Anything: predictive learning across seven distinct domains.</p>
+      <p>Predictive models of dynamics and interventions across biological and physical systems.</p>
     </article>
     <article class="focus-card">
       <div class="focus-card__icon" aria-hidden="true">
