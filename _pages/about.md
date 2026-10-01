@@ -47,44 +47,47 @@ redirect_from:
   <div class="section-heading">
     <p class="section-kicker">About</p>
     <div>
-      <h2 id="about-title">Reliable learning for physical systems.</h2>
-      <p class="section-heading__copy">
-        <a href="https://www.cuhk.edu.hk/english/" target="_blank" rel="noopener">CUHK</a>: AI4LS Laboratory and
-        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">MMLab</a>. Co-supervised by
-        <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ" target="_blank" rel="noopener">Prof. Pheng Ann Heng</a>
-        and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ" target="_blank" rel="noopener">Prof. Wanli Ouyang</a>.<br>
-        <a href="https://www.stanford.edu/" target="_blank" rel="noopener">Stanford</a>: collaborating with
-        <a href="https://scholar.google.com/citations?user=sfJIWdcAAAAJ" target="_blank" rel="noopener">Prof. Le Cong</a>.
+      <h2 id="about-title">Learning how scientific systems change.</h2>
+      <p class="section-heading__copy section-heading__copy--lead">
+        I develop predictive models for systems spanning atoms, molecules, cells, and physical environments. My work connects reliable simulation with world models that can guide interventions and testable scientific hypotheses.
       </p>
       <p class="section-heading__copy">
-        <strong>Background:</strong> Master's in Biomedical Engineering, Tsinghua University; Microsoft Research Asia; Shanghai AI Laboratory.<br>
-        <strong>Reviewer:</strong> Nature Communications, AISTATS, ICML, ICLR, NeurIPS, AAAI.
+        At <a href="https://www.cuhk.edu.hk/english/" target="_blank" rel="noopener">CUHK</a>, I work with the AI4LS Laboratory and
+        <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener">MMLab</a>, co-supervised by
+        <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ" target="_blank" rel="noopener">Prof. Pheng Ann Heng</a>
+        and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ" target="_blank" rel="noopener">Prof. Wanli Ouyang</a>.
+        I also collaborate with <a href="https://scholar.google.com/citations?user=sfJIWdcAAAAJ" target="_blank" rel="noopener">Prof. Le Cong</a> at Stanford.
       </p>
     </div>
   </div>
 
-  <div class="focus-grid" style="margin-top: clamp(50px, 7vw, 82px);">
+  <div class="focus-grid">
     <article class="focus-card">
       <div class="focus-card__icon" aria-hidden="true">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="2"></circle><ellipse cx="12" cy="12" rx="9" ry="4"></ellipse><ellipse cx="12" cy="12" rx="9" ry="4" transform="rotate(60 12 12)"></ellipse></svg>
       </div>
       <h3>AI for Physics</h3>
-      <p>Interatomic potentials and reliable molecular simulation.</p>
+      <p>Interatomic potentials with uncertainty estimation and out-of-distribution adaptation.</p>
     </article>
     <article class="focus-card">
       <div class="focus-card__icon" aria-hidden="true">
         <svg viewBox="0 0 24 24"><path d="M4 17.5 9 12l3 3 8-9"></path><path d="M16 6h4v4"></path><path d="M4 5v14h16"></path></svg>
       </div>
       <h3>World Models</h3>
-      <p>Dynamics, uncertainty, and generalization.</p>
+      <p>JEPA-Anything: predictive learning across seven distinct domains.</p>
     </article>
     <article class="focus-card">
       <div class="focus-card__icon" aria-hidden="true">
         <svg viewBox="0 0 24 24"><rect x="4" y="4" width="6" height="6" rx="1.5"></rect><rect x="14" y="14" width="6" height="6" rx="1.5"></rect><path d="M10 7h4a3 3 0 0 1 3 3v4M14 17h-4a3 3 0 0 1-3-3v-4"></path></svg>
       </div>
       <h3>Scientific Agents</h3>
-      <p>Planning and tool use for research workflows.</p>
+      <p>Exploring agents that plan and use tools to support research workflows.</p>
     </article>
+  </div>
+
+  <div class="about-credentials" aria-label="Background and academic service">
+    <p><strong>Background</strong> Master's in Biomedical Engineering, Tsinghua University; previously at Microsoft Research Asia and Shanghai AI Laboratory.</p>
+    <p><strong>Academic service</strong> Reviewer for Nature Communications, AISTATS, ICML, ICLR, NeurIPS, and AAAI.</p>
   </div>
 </section>
 
