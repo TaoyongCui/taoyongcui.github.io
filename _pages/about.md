@@ -41,7 +41,7 @@ redirect_from:
         <a href="https://mmlab.ie.cuhk.edu.hk/" rel="noopener" target="_blank">MMLab</a>, co-supervised by
         <a href="https://scholar.google.com/citations?user=OFdytjoAAAAJ" rel="noopener" target="_blank">Prof. Pheng Ann Heng</a>
         and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ" rel="noopener" target="_blank">Prof. Wanli Ouyang</a>.
-        I also collaborate with <a href="https://scholar.google.com/citations?user=sfJIWdcAAAAJ" rel="noopener" target="_blank">Prof. Le Cong</a> at Stanford.
+        I also collaborate with <a href="https://scholar.google.com/citations?user=sfJIWdcAAAAJ" rel="noopener" target="_blank">Prof. Le Cong</a> at Stanford. I contribute to building the <a href="https://github.com/Gen-Verse" target="_blank" rel="noopener">Gen-Verse</a> open-source research community.
       </p>
         <p class="background"><strong>Background</strong> Master's in Biomedical Engineering, Tsinghua University; previously at Microsoft Research Asia and Shanghai AI Laboratory.</p>
       </div>
