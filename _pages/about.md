@@ -72,7 +72,7 @@ redirect_from:
         <img src="{{ '/assets/homepage/img/rsi-overview.png' | relative_url }}" alt="RSI-Anything overview: world-model predictions and interaction feedback enable recursive self-improvement across domains" loading="lazy" width="3884" height="1618">
       </a>
       <div class="publication-copy">
-        <p class="publication-venue">arXiv · 2026 <span class="status-tag">Preprint</span></p>
+        <p class="publication-venue">Technical Report · 2026</p>
         <h3>RSI-Anything: Unlocking Recursive Self-Improvement with World Models</h3>
         <p class="publication-authors"><strong>Taoyong Cui</strong>, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang</p>
         <p class="publication-summary">World-model predictions and interaction feedback drive recursive self-improvement across code repair, GUI interaction, laboratory planning, reaction optimization, and immune science.</p>
@@ -84,7 +84,7 @@ redirect_from:
         <img src="{{ '/assets/homepage/img/jepa-overview.png' | relative_url }}" alt="Overview figure for JEPA-Anything: Learning Predictive Models across Different Worlds" loading="lazy" width="520" height="320">
       </a>
       <div class="publication-copy">
-        <p class="publication-venue">arXiv · 2026 <span class="status-tag">Preprint</span></p>
+        <p class="publication-venue">Technical Report · 2026</p>
         <h3>JEPA-Anything: Learning Predictive Models across Different Worlds</h3>
         <p class="publication-authors"><strong>Taoyong Cui</strong>, Zhongyao Wang, Xinyue Xu, Weiyang Liu, Zhaochen Yu, Yuying Zhang, Qiang Gao, Mengyue Yang, Wanli Ouyang, Pheng Ann Heng, Yingcheng Wu, Zhenfei Yin, Ling Yang</p>
         <p class="publication-summary">A shared predictive framework for world models across vision, biology, clinical trajectories, control, molecular dynamics, physical fields, and weather.</p>
