@@ -51,7 +51,7 @@ redirect_from:
   <section class="section section-pale news-section" id="news" aria-labelledby="news-title">
     <div class="container news-layout">
       <div class="section-intro"><p class="section-kicker">LATEST</p><h2 id="news-title">News</h2></div>
-      <div class="news-content"><ol class="news-list"><li><time datetime="2026-09">Sep 2026</time><p><strong><a href="https://arxiv.org/abs/2609.20800" rel="noopener" target="_blank">JEPA-Anything</a></strong> released. Featured by <a class="news-feature" href="https://www.qbitai.com/2026/09/492429.html" rel="noopener" target="_blank">QbitAI (量子位) ↗</a>.</p></li><li><time datetime="2025-12">Dec 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li><li><time datetime="2025-11">Nov 2025</time><p><strong>Scientific Data</strong> paper accepted.</p></li><li><time datetime="2025-10">Oct 2025</time><p><strong>Current Opinion in Structural Biology</strong> paper accepted.</p></li></ol>
+      <div class="news-content"><ol class="news-list"><li><time datetime="2026-10">Oct 2026</time><p><strong><a href="https://arxiv.org/abs/2610.13912" rel="noopener" target="_blank">RSI-Anything</a></strong> released. Featured by <a class="news-feature" href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&amp;chksm=854f339fe6172a5e3fda235df1aab974bea8dda89b5ac8fbd326958a6290eb310be8e6aa6f3e&amp;idx=1&amp;mid=2651062250&amp;scene=0&amp;sn=01ec89d0007a47eba2bc2918aab03ecf&amp;xtrack=1" rel="noopener" target="_blank">Synced (机器之心) ↗</a>.</p></li><li><time datetime="2026-09">Sep 2026</time><p><strong><a href="https://arxiv.org/abs/2609.20800" rel="noopener" target="_blank">JEPA-Anything</a></strong> released. Featured by <a class="news-feature" href="https://www.qbitai.com/2026/09/492429.html" rel="noopener" target="_blank">QbitAI (量子位) ↗</a>.</p></li><li><time datetime="2025-12">Dec 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li><li><time datetime="2025-11">Nov 2025</time><p><strong>Scientific Data</strong> paper accepted.</p></li><li><time datetime="2025-10">Oct 2025</time><p><strong>Current Opinion in Structural Biology</strong> paper accepted.</p></li></ol>
         <details class="older-news"><summary>Earlier updates <span aria-hidden="true">+</span></summary><ol class="news-list"><li><time datetime="2025-07">Jul 2025</time><p><strong>Advanced Science</strong> paper accepted.</p></li><li><time datetime="2025-02">Feb 2025</time><p><strong>Nature Communications</strong> paper accepted.</p></li><li><time datetime="2024-11">Nov 2024</time><p><strong>VLDB</strong> paper accepted.</p></li><li><time datetime="2024-04">Apr 2024</time><p><strong>Nature Machine Intelligence</strong> paper accepted.</p></li></ol></details>
       </div>
     </div>
@@ -68,6 +68,18 @@ redirect_from:
     <div class="container">
       <div class="section-heading"><h2 id="publications-title">Selected Publications</h2><p>Scientific world models, generalization, and reliable atomistic simulation.</p></div>
       <div class="publication-list"><article class="publication">
+      <a class="publication-image" href="https://arxiv.org/abs/2610.13912" target="_blank" rel="noopener" aria-label="Read RSI-Anything: Unlocking Recursive Self-Improvement with World Models">
+        <img src="{{ '/assets/homepage/img/rsi-overview.png' | relative_url }}" alt="RSI-Anything overview: world-model predictions and interaction feedback enable recursive self-improvement across domains" loading="lazy" width="3884" height="1618">
+      </a>
+      <div class="publication-copy">
+        <p class="publication-venue">arXiv · 2026 <span class="status-tag">Preprint</span></p>
+        <h3>RSI-Anything: Unlocking Recursive Self-Improvement with World Models</h3>
+        <p class="publication-authors"><strong>Taoyong Cui</strong>, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue, Qiang Gao, Wanli Ouyang, Pheng Ann Heng, Zhenfei Yin, Yingcheng Wu, Ling Yang</p>
+        <p class="publication-summary">World-model predictions and interaction feedback drive recursive self-improvement across code repair, GUI interaction, laboratory planning, reaction optimization, and immune science.</p>
+        <p class="paper-honor">Featured by <a class="news-feature" href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&amp;chksm=854f339fe6172a5e3fda235df1aab974bea8dda89b5ac8fbd326958a6290eb310be8e6aa6f3e&amp;idx=1&amp;mid=2651062250&amp;scene=0&amp;sn=01ec89d0007a47eba2bc2918aab03ecf&amp;xtrack=1" rel="noopener" target="_blank">Synced (机器之心) ↗</a>.</p>
+        <div class="publication-links"><a class="paper-card__link" href="https://arxiv.org/abs/2610.13912" rel="noopener" target="_blank">Read paper <span aria-hidden="true">↗</span></a><a class="paper-card__link" href="https://github.com/Gen-Verse/RSI-Anything" rel="noopener" target="_blank">Code <span aria-hidden="true">↗</span></a></div>
+      </div>
+    </article><article class="publication">
       <a class="publication-image" href="https://arxiv.org/abs/2609.20800" target="_blank" rel="noopener" aria-label="Read JEPA-Anything: Learning Predictive Models across Different Worlds">
         <img src="{{ '/assets/homepage/img/jepa-overview.png' | relative_url }}" alt="Overview figure for JEPA-Anything: Learning Predictive Models across Different Worlds" loading="lazy" width="520" height="320">
       </a>
