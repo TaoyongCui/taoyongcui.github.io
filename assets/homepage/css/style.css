@@ -45,3 +45,9 @@ body{font-size:18px;line-height:1.65}
 .hero::after{background:linear-gradient(180deg,rgba(5,10,17,.14) 0%,transparent 55%,rgba(5,10,17,.32) 100%)}
 .hero-role,.hero-description{color:#e1e5eb}.portrait figcaption{color:#e0e4e9}
 @media(max-width:600px){.hero{background-image:linear-gradient(180deg,rgba(10,17,26,.84) 0%,rgba(10,17,26,.8) 55%,rgba(10,17,26,.54) 100%),url("../img/hong-kong-night.jpg");background-position:center,74% center}.portrait figcaption{color:#f0f1f2}}
+
+/* Repository popularity badges beside publication resources. */
+.publication-links{flex-wrap:wrap;gap:12px 20px}
+.publication-links .github-stars-badge{display:inline-flex;align-items:center;flex:0 0 auto;line-height:1;border-radius:3px;overflow:hidden;transition:opacity .2s ease}
+.github-stars-badge img{display:block;width:auto;height:20px;max-width:none}
+.github-stars-badge:hover{opacity:.85}
