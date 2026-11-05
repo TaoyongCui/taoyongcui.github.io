@@ -46,8 +46,9 @@ body{font-size:18px;line-height:1.65}
 .hero-role,.hero-description{color:#e1e5eb}.portrait figcaption{color:#e0e4e9}
 @media(max-width:600px){.hero{background-image:linear-gradient(180deg,rgba(10,17,26,.84) 0%,rgba(10,17,26,.8) 55%,rgba(10,17,26,.54) 100%),url("../img/hong-kong-night.jpg");background-position:center,74% center}.portrait figcaption{color:#f0f1f2}}
 
-/* Repository popularity badges beside publication resources. */
-.publication-links{flex-wrap:wrap;gap:12px 20px}
-.publication-links .github-stars-badge{display:inline-flex;align-items:center;flex:0 0 auto;line-height:1;border-radius:3px;overflow:hidden;transition:opacity .2s ease}
-.github-stars-badge img{display:block;width:auto;height:20px;max-width:none}
-.github-stars-badge:hover{opacity:.85}
+/* Compact GitHub star counters that use the homepage lettering. */
+.publication-links{flex-wrap:wrap;gap:12px 18px}
+.publication-links .github-stars-badge{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;min-height:26px;padding:4px 8px;border:1px solid var(--line);border-radius:5px;background:#fff;color:var(--ink);line-height:1}
+.github-stars-badge svg{width:14px;height:14px;fill:#d8a11b;stroke:none;flex:none}
+.github-stars-badge .github-stars-count{font:inherit;font-variant-numeric:tabular-nums;white-space:nowrap}
+.publication-links .github-stars-badge:hover{border-color:#c7cbcd;background:#fafafa;color:var(--ink)}

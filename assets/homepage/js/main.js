@@ -46,3 +46,49 @@
     });
   }
 })();
+
+(() => {
+  'use strict';
+  const cacheLifetime = 60 * 60 * 1000;
+  document.querySelectorAll('[data-github-repo]').forEach(async badge => {
+    const repo = badge.dataset.githubRepo;
+    const counter = badge.querySelector('.github-stars-count');
+    if (!counter || !/^[\w.-]+\/[\w.-]+$/.test(repo)) return;
+    const cacheKey = 'homepage-github-stars:' + repo;
+    const display = count => {
+      if (!Number.isSafeInteger(count) || count < 0) return;
+      const formatted = new Intl.NumberFormat('en-US').format(count);
+      counter.textContent = formatted;
+      badge.setAttribute('aria-label', repo + ' on GitHub: ' + formatted + ' stars');
+    };
+    try {
+      const cached = JSON.parse(localStorage.getItem(cacheKey) || 'null');
+      if (cached && Number.isSafeInteger(cached.count) &&
+          cached.count >= 0 && Date.now() - cached.timestamp < cacheLifetime) {
+        display(cached.count);
+        return;
+      }
+    } catch {}
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 6000);
+    try {
+      const response = await fetch('https://api.github.com/repos/' + repo, {
+        headers: {Accept: 'application/vnd.github+json'},
+        signal: controller.signal
+      });
+      if (!response.ok) return;
+      const data = await response.json();
+      if (!Number.isSafeInteger(data.stargazers_count) || data.stargazers_count < 0) return;
+      display(data.stargazers_count);
+      try {
+        localStorage.setItem(cacheKey, JSON.stringify({
+          count: data.stargazers_count, timestamp: Date.now()
+        }));
+      } catch {}
+    } catch {
+      // The count already rendered in the page remains available offline.
+    } finally {
+      clearTimeout(timeout);
+    }
+  });
+})();
